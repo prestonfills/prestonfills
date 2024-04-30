@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prestonfills
+- 👋 Hi, I’m Promise
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning all thing cloud native
 - 💞️ I’m looking to collaborate on exciting projects
